@@ -4,4 +4,4 @@ projekt nr 1
 
 Po przerwie zmodyfikowalem plik i dodalem to:
 
-<!-- koment1 -->
+<!-- koment2 -->
